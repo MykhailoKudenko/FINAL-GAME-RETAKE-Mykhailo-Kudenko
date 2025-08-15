@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FirePlace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FirePlace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -214,17 +214,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\GameManager.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.cpp",
               "RelativeToolTip": "Castlevania1984\\GameManager.cpp",
-              "ViewState": "AgIAAIoBAAAAAAAAAAAAAJUBAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAALsAAAAAAAAAAAAQwJUBAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-09T13:30:00.625Z",
               "IsPinned": true,
@@ -232,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.h",
               "RelativeDocumentMoniker": "Castlevania1984\\GameManager.h",
@@ -241,18 +241,17 @@
               "ViewState": "AgIAAEYAAAAAAAAAAAAAAGUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T13:29:58.871Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Player.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp",
               "RelativeToolTip": "Castlevania1984\\Player.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgCAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgCAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-09T12:50:30.578Z",
               "IsPinned": true,
@@ -260,13 +259,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Player.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h",
               "RelativeToolTip": "Castlevania1984\\Player.h",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T12:50:27.394Z",
               "IsPinned": true,
@@ -296,8 +295,7 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T14:16:06.023Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -323,8 +321,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T12:43:11.54Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -350,8 +347,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-16T16:15:39.135Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -377,8 +373,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-17T16:49:29.782Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -404,8 +399,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-17T16:59:42.31Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -418,8 +412,7 @@
               "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-19T11:45:09.398Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -445,8 +438,7 @@
               "ViewState": "AgIAAEUAAAAAAAAAAAAAAF0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T14:07:48.051Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -472,8 +464,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T09:22:44.148Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -499,8 +490,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-20T13:04:45.713Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -513,8 +503,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-20T12:04:45.837Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -553,8 +542,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T15:46:18.911Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -567,8 +555,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-20T14:00:57.738Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -607,8 +594,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-23T10:39:52.306Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -621,8 +607,7 @@
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-23T10:39:42.6Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -635,8 +620,7 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-23T13:14:22.529Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -653,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Hud.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Hud.cpp",
@@ -662,12 +646,11 @@
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T13:20:17.492Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Hud.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Hud.h",
@@ -676,8 +659,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-25T13:20:12.91Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -690,8 +672,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T15:03:43.406Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -704,8 +685,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T13:32:15.719Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -718,8 +698,7 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T13:05:43.415Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -732,12 +711,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T13:05:34.229Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "FirePlace.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FirePlace.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\FirePlace.cpp",
@@ -746,8 +724,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T13:26:27.526Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -799,8 +776,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T11:39:33.968Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -813,8 +789,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-27T11:39:28.886Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -840,8 +815,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T11:14:51.819Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -854,8 +828,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-28T16:43:06.419Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -868,8 +841,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-28T16:43:03.211Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",

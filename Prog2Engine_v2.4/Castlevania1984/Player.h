@@ -53,7 +53,7 @@ private:
     void OnStairsUpdate(float elapsedSec);
     void DrawMirrored(Texture* pTexture, const Vector2f& destPos, const Rectf& srcRect) const;
 
-    float const m_InvonurabilityMax = 1;
+    float const m_InvonurabilityMax = 1.5;
     float m_InvonurabilityCurrent = 0;
     float const m_StunMax = 0.5;
     float m_StunCurrent = 0;
