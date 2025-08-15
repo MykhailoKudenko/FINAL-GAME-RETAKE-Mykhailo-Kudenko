@@ -530,6 +530,13 @@ void Player::Revive(const Vector2f& revivePos)
     m_DeathReturnDelay = 1.2;
 }
 
+void Player::ResetNumberOfHearts()
+{
+    m_NumberofHearts = 0;
+    m_DoesHaveanAxe = false;
+    m_DoeshaveaKnife = false;
+}
+
 void Player::LoadTextures()
 {
     if (!s_PlayerAccend)

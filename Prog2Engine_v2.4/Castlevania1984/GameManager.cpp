@@ -39,6 +39,8 @@ GameManager::GameManager() :
 
     m_Inmenu = true;
     m_InDebug = false;
+    LivesLeft = 3;
+    
 }
 
 void GameManager::SpawnLevelTexturesAndBlocks()
@@ -144,10 +146,13 @@ void GameManager::SpawnEnemiesAndChests()
     m_Enemies.push_back(new Bat{ Vector2f(2950 - 300, 50) });
     m_Enemies.push_back(new Bat{ Vector2f(2850 - 300, 50) });
 
-    m_Enemies.push_back(new FishMan{ Vector2f(2500, -120) });
-    m_Enemies.push_back(new FishMan{ Vector2f(2600, -120) });
-    m_Enemies.push_back(new FishMan{ Vector2f(2700, -120) });
-    m_Enemies.push_back(new FishMan{ Vector2f(2750, -120) });
+
+    m_Enemies.push_back(new FishMan{ Vector2f(2450, -120) });
+    m_Enemies.push_back(new FishMan{ Vector2f(2470, -120) });
+
+    m_Enemies.push_back(new FishMan{ Vector2f(2630, -120) });
+    m_Enemies.push_back(new FishMan{ Vector2f(2650, -120) });
+    
 
     m_Enemies.push_back(new Zombie{ Vector2f(2850, 35) });
     m_Enemies.push_back(new Zombie{ Vector2f(2900, 35) });
@@ -384,11 +389,42 @@ void GameManager::Update(float elapsedSec)
     {
         if (m_Player->IsDead() || m_Player->GetPos().y < -200)
         {
-            m_Player->Revive(m_RespawnPos);
 
-            ClearEnemiesAndChests();
+            LivesLeft--;
 
-            SpawnEnemiesAndChests();
+
+            if (LivesLeft <= 0)
+            {
+                m_Inmenu = true;
+                m_InDebug = false;
+                LivesLeft = 3;
+                m_RespawnPos = Vector2f{ 20.f, 30.f };
+                m_CameraAim = Rectf{ 0, 0, 768, 10000 };
+
+                m_Player->Revive(m_RespawnPos);
+                m_Player->ResetNumberOfHearts();
+                m_Hud->Resetweapon();
+
+                ClearEnemiesAndChests();
+
+                SpawnEnemiesAndChests();
+
+            }
+            else
+            {
+                m_Player->Revive(m_RespawnPos);
+
+                ClearEnemiesAndChests();
+
+                SpawnEnemiesAndChests();
+                
+
+            }
+           
+
+           
+
+            m_Hud->TakeNumberOfLives(LivesLeft);
         }
 
 
@@ -492,9 +528,9 @@ void GameManager::UpdateEnemies(float elapsedSec)
         FishMan* fishman = dynamic_cast<FishMan*>(enemy);
         if (fishman != nullptr)
         {
-            if (utils::GetDistance(Vector2f{ enemy->GetHitbox().left, enemy->GetHitbox().bottom }, Vector2f{ m_Player->GetHitbox().left, m_Player->GetHitbox().bottom }) < 150)
+            if (utils::GetDistance(Vector2f{ enemy->GetHitbox().left, enemy->GetHitbox().bottom }, Vector2f{ m_Player->GetHitbox().left, m_Player->GetHitbox().bottom }) < 100)
             {
-
+                
                 fishman->Activate();
             }
 
@@ -517,6 +553,7 @@ void GameManager::UpdateEnemies(float elapsedSec)
 
         if (WasKilled)
         {
+            m_Drops.push_back(new Drop{ m_Enemies[i]->GetPos(),Drop::DropType::HeartSmall });
             delete m_Enemies[i];
             m_Enemies.erase(m_Enemies.begin() + i);
         }

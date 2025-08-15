@@ -10,9 +10,9 @@
     You play as Simon Belmont, descendant of a legendary vampire hunters who goes into castle of dracula to him.
     <br />
     <strong>Original game : </strong>
-    <a href="https://www.google.be/"><strong>General info »</strong></a>
+    <a href="https://en.wikipedia.org/wiki/Castlevania_(1986_video_game)"><strong>General info »</strong></a>
     ·
-    <a href="https://www.google.be/"><strong>Youtube video »<strong></a>
+    <a href="https://www.youtube.com/watch?v=QenVVpI60Ok"><strong>Youtube video »<strong></a>
     <br />
     <br />
   </p>
@@ -69,13 +69,16 @@ This section gives a clear and detailed overview of which parts of the original 
 * .. Enemy animation
 * .. Map teleports& stairs
 * .. items Pick ups
+* .. Bossfight at the end
+* .. Camera movement
+* .. Axe weapon
 
 ### What I will probably make as well:
-* .. Camera movement
+* .. Knife Weapon
 
 ### What I plan to create if I have enough time left:
 * .. Cutscenes
-* .. Bossfight at the end
+* .. Debug mode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,6 +115,7 @@ Additional screenshots and demos work well in this space.
 * Z - Whip attack
 * X - Axe throw (doesn't work if you dont have hearts or axe)
 * Enter to start the game from the menu
+* F1 To enter debug mode (shows all hitboxes)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -120,26 +124,27 @@ Additional screenshots and demos work well in this space.
 ## Class structure 
 
 Inheritance:
-        Enemy
+        Entity
           | 
-    -----------------------------------------------
-    |              |          |           |       |
-   Zombie         Dog       Bat         Fish    Boss
+    -------------------------------------------------------------------------------
+    |              |          |           |       	|           |   	  |
+   Enemy         Palyer     Block     Projectile  	Chest    LevelTexture   CutsceneTrigger
+    |  					  |		    |
+    --------------------------------	  --------------    --------
+    |     |       |         |      |	  |      |     |    |      |
+   Bat  Zombie  Fishman    Dog   Boss    Whip   Knife Axe  Candle  FirePlace
 
-Has a reference to:
-Player --> objects, enemies, PlayerHitboxes, Stairs, Cutscenes, Drops, Axes, AimCamera
-Enemy --> objects, PlayerHitboxes, Drops
-Chests --> PlayerAttacks, Drops
+
 
 ### Object composition 
 If you applied object composition (optional) explain where and how:
 
-Many Classes such as player and enemy have a reference to a vector of objects of different type in main.
-They use it for different things (player uses reference to enemies to check if he is inside them).
+My Class GameManager Owns, and manages all other classes.
+Many Classes like Bat, Zombie, Fishman, Dog, Boss, Player, own animations
 
 ### Inheritance 
-Explain where you applied inheritance (mandatory):
-All enemies share same mother class = "Enemy". Which is purely virtual
+
+As shown above many of my Classes share same parent called Entity, Also Many of them have their own derived classes(Enemy, Projectile ,Chest)
 
 ### ..
 
@@ -150,15 +155,15 @@ All enemies share same mother class = "Enemy". Which is purely virtual
 ## Checklist
 
 - [x] Accept / set up github project
-- [ ] week 01 topics applied
+- [x] week 01 topics applied
     - [x] const keyword applied proactively (variables, functions,..)
     - [x] static keyword applied proactively (class variables, static functions,..)
     - [x] object composition (optional)
 - [x] week 02 topics applied
 - [x] week 03 topics applied
-- [ ] week 04 topics applied
-- [ ] week 05 topics applied
-- [ ] week 06 topics applied
+- [x] week 04 topics applied
+- [x] week 05 topics applied
+- [x] week 06 topics applied
 - [ ] week 07 topics applied
 - [ ] week 08 topics applied
 - [ ] week 09 topics applied (optional)
@@ -173,7 +178,7 @@ Your Name - Mykhailo Kudenko
 
 Mykhailo.KUDENKO@student.howest.be
 
-Project Link: https://github.com/HowestDAE/dae13-MykhailoKudenko
+Project Link: https://github.com/MykhailoKudenko/FINAL-GAME-RETAKE-Mykhailo-Kudenko.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

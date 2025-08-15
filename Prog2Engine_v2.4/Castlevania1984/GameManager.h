@@ -98,5 +98,7 @@ private:
 
      bool m_Inmenu;
      bool m_InDebug;
+
+     int LivesLeft;
 };
 

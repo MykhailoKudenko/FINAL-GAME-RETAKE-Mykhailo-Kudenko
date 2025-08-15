@@ -46,6 +46,8 @@ void Drop::Draw(bool IsDebug) const
     }
 }
 
+
+
 void Drop::Update(float elapsedSec)
 {
     float newY = m_Pos.y + m_GravityAcceleration * elapsedSec;

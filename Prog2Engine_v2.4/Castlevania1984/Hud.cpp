@@ -4,7 +4,7 @@
 
 
 Hud::Hud()
-    : m_pPlayer(nullptr), m_TextCurrentHp(nullptr)
+    : m_pPlayer(nullptr), m_TextCurrentHp(nullptr), m_TextCurrentLives(nullptr)
 {
     
     m_HudTexture = new Texture("../../Resources/Reworked textures/Menu/UpBar.png");
@@ -13,12 +13,16 @@ Hud::Hud()
 
     m_HasAxe = false; 
     m_HasKnife = false;
+    m_NumberOfLives = 3;
 }
 
 Hud::~Hud()
 {
     delete m_TextCurrentHp;
     m_TextCurrentHp = nullptr;
+
+    delete m_TextCurrentLives;
+    m_TextCurrentLives = nullptr;
 
     delete m_HudTexture;
     m_HudTexture = nullptr;
@@ -42,12 +46,18 @@ void Hud::Update(float)
 
     delete m_TextCurrentHp;
     m_TextCurrentHp = new Texture(std::to_string(m_pPlayer->m_NumberofHearts),"../../Resources/Reworked textures/Words/DIN-Light.otf",25,Color4f{ 1,1,1,1 });
+
+    delete m_TextCurrentLives;
+    m_TextCurrentLives = new Texture(std::to_string(m_NumberOfLives), "../../Resources/Reworked textures/Words/DIN-Light.otf", 25, Color4f{ 1,1,1,1 });
+
 }
 
 void Hud::Draw() const
 {
     if (!m_pPlayer) return;
 
+    utils::SetColor(Color4f{ 0, 0, 0, 1 });
+    utils::FillRect(0, 768, 1024, 416);
    
     m_HudTexture->Draw(Rectf(0, 768, 1024, 116));
 
@@ -60,6 +70,13 @@ void Hud::Draw() const
     {
         m_TextCurrentHp->Draw(Vector2f(720, 810));
     }
+
+    if (m_TextCurrentLives)
+    {
+        m_TextCurrentLives->Draw(Vector2f(720, 775));
+    }
+
+    
 
     if (m_HasAxe)
     {
@@ -78,6 +95,12 @@ void Hud::Draw() const
 
 }
 
+void Hud::TakeNumberOfLives(int lives)
+{
+    m_NumberOfLives = lives;
+}
+
+
 void Hud::TakeDrop(Drop::DropType drop)
 {
     switch (drop)
@@ -93,4 +116,10 @@ void Hud::TakeDrop(Drop::DropType drop)
     }
 
    
+}
+
+void Hud::Resetweapon()
+{
+    m_HasAxe = false;
+    m_HasKnife = false;
 }

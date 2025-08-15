@@ -7,7 +7,7 @@ const float Knife::s_KnifeSpeed = 100;
 
 
 Knife::Knife(const Vector2f& pos, const Vector2f& unitDirection)
-    : Projectile(pos, unitDirection, Rectf{ 0, 0, 20, 10 }, 5.f)
+    : Projectile(pos, unitDirection, Rectf{ 0, 0, 20, 10 }, 2.f)
 {
 
 }

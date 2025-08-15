@@ -1,13 +1,56 @@
-﻿  GameManager.cpp
-C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(82,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+﻿  Boss.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Boss.cpp')
+  
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Boss.cpp(18,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Boss.cpp(67,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Dog.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Dog.cpp')
+  
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Dog.cpp(13,40): warning C4305: 'argument': truncation from 'double' to 'float'
+  Drop.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Drop.cpp')
+  
+  FishMan.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'FishMan.cpp')
+  
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\FishMan.cpp(16,43): warning C4305: 'argument': truncation from 'double' to 'float'
+  Game.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Game.cpp')
+  
+  GameManager.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
   (compiling source file 'GameManager.cpp')
   
 C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\GameManager.cpp(6,43): warning C4305: 'argument': truncation from 'double' to 'float'
   Hud.cpp
-C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(82,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
   (compiling source file 'Hud.cpp')
   
-C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Hud.cpp(56,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Hud.cpp(66,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Player.cpp')
+  
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.cpp(16,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.cpp(17,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.cpp(18,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.cpp(19,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.cpp(160,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.cpp(530,26): warning C4305: '=': truncation from 'double' to 'float'
+  Zombie.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Zombie.cpp')
+  
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Zombie.cpp(13,42): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\Castlevania1984\Player.h(83,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
   Castlevania1984.vcxproj -> C:\Users\horse\Desktop\CastleVaniaRemake\Prog2Engine_v2.4\x64\Debug\Castlevania1984.exe
   0 File(s) copied
   0 File(s) copied

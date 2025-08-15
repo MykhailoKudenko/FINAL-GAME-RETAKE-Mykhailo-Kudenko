@@ -22,6 +22,10 @@ public:
     
     Rectf GetHitBox() const;
 
+    
+
+    Drop(const Drop&) = delete;
+    Drop& operator=(const Drop&) = delete;
 private:
     float const m_GravityAcceleration = -45;
 

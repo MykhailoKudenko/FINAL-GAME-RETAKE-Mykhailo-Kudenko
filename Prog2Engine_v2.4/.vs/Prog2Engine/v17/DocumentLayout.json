@@ -3,40 +3,132 @@
   "WorkspaceRootPath": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FishMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FishMan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Hud.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CutsceneTrigger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\CutsceneTrigger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Hud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FirePlace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FirePlace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FishMan.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Drop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Drop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CutsceneTrigger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\CutsceneTrigger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\LevelTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\LevelTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CameraController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\CameraController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Dog.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FishMan.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CutsceneTrigger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -47,28 +139,8 @@
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\stairs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Hud.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CameraController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\CameraController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Bat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Bat.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -87,26 +159,6 @@
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FirePlace.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FirePlace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\FirePlace.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Chest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Drop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Axe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Axe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -115,32 +167,12 @@
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Whip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Zombie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Zombie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Zombie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Entity.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -149,34 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\LevelTexture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\LevelTexture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Drop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Chest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Stairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Axe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -189,10 +193,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\Dog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CameraController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|solutionrelative:Castlevania1984\\CameraController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69297DBA-2210-46FC-AEEB-7EEFFE919AD0}|Castlevania1984\\Castlevania1984.vcxproj|C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -214,17 +214,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\GameManager.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.cpp",
               "RelativeToolTip": "Castlevania1984\\GameManager.cpp",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwH0CAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAIoBAAAAAAAAAAAAAJUBAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-09T13:30:00.625Z",
               "IsPinned": true,
@@ -232,13 +232,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.h",
               "RelativeDocumentMoniker": "Castlevania1984\\GameManager.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\GameManager.h",
               "RelativeToolTip": "Castlevania1984\\GameManager.h",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T13:29:58.871Z",
               "IsPinned": true,
@@ -246,33 +246,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "Player.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Player.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.cpp",
               "RelativeToolTip": "Castlevania1984\\Player.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAALIBAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgCAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-09T12:50:30.578Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Player.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Player.h",
               "RelativeToolTip": "Castlevania1984\\Player.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T12:50:27.394Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Block.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Block.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Block.cpp",
@@ -285,20 +287,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 25,
               "Title": "Block.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Block.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Block.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Block.h",
               "RelativeToolTip": "Castlevania1984\\Block.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T14:16:06.023Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "Entity.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Entity.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Entity.cpp",
@@ -311,20 +314,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 27,
               "Title": "Entity.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Entity.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Entity.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Entity.h",
               "RelativeToolTip": "Castlevania1984\\Entity.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-09T12:43:11.54Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 34,
               "Title": "CameraController.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CameraController.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\CameraController.cpp",
@@ -337,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 24,
               "Title": "CameraController.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CameraController.h",
               "RelativeDocumentMoniker": "Castlevania1984\\CameraController.h",
@@ -346,11 +350,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-16T16:15:39.135Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "Enemy.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Enemy.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Enemy.cpp",
@@ -363,20 +368,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 26,
               "Title": "Enemy.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Enemy.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Enemy.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Enemy.h",
               "RelativeToolTip": "Castlevania1984\\Enemy.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-17T16:49:29.782Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 41,
               "Title": "Zombie.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Zombie.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Zombie.cpp",
@@ -389,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 23,
               "Title": "Zombie.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Zombie.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Zombie.h",
@@ -398,11 +404,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-17T16:59:42.31Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
               "Title": "Bat.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Bat.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Bat.cpp",
@@ -411,11 +418,12 @@
               "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-19T11:45:09.398Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
               "Title": "Bat.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Bat.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Bat.h",
@@ -428,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 30,
               "Title": "Dog.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Dog.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Dog.cpp",
@@ -442,7 +450,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Dog.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Dog.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Dog.h",
@@ -455,13 +463,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FishMan.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\FishMan.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.cpp",
               "RelativeToolTip": "Castlevania1984\\FishMan.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T09:22:44.148Z",
               "IsPinned": true,
@@ -469,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 31,
               "Title": "FishMan.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FishMan.h",
               "RelativeDocumentMoniker": "Castlevania1984\\FishMan.h",
@@ -478,12 +486,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T09:22:37.036Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 9,
               "Title": "Projectile.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Projectile.cpp",
@@ -492,24 +499,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-20T13:04:45.713Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 10,
               "Title": "Projectile.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Projectile.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Projectile.h",
               "RelativeToolTip": "Castlevania1984\\Projectile.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-20T12:04:45.837Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 40,
               "Title": "Whip.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Whip.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Whip.cpp",
@@ -522,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Whip.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Whip.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Whip.h",
@@ -541,14 +550,15 @@
               "RelativeDocumentMoniker": "Castlevania1984\\Knife.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Knife.cpp",
               "RelativeToolTip": "Castlevania1984\\Knife.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T15:46:18.911Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Knife.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Knife.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Knife.h",
@@ -557,11 +567,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-20T14:00:57.738Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 39,
               "Title": "Axe.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Axe.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Axe.cpp",
@@ -574,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Axe.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Axe.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Axe.h",
@@ -587,33 +598,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 14,
               "Title": "Drop.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Drop.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.cpp",
               "RelativeToolTip": "Castlevania1984\\Drop.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-23T10:39:52.306Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 13,
               "Title": "Drop.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Drop.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Drop.h",
               "RelativeToolTip": "Castlevania1984\\Drop.h",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-23T10:39:42.6Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 29,
               "Title": "Stairs.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Stairs.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Stairs.cpp",
@@ -622,11 +635,12 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-23T13:14:22.529Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 33,
               "Title": "Stairs.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Stairs.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Stairs.h",
@@ -639,33 +653,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Hud.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Hud.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.cpp",
               "RelativeToolTip": "Castlevania1984\\Hud.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T13:20:17.492Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 2,
               "Title": "Hud.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Hud.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Hud.h",
               "RelativeToolTip": "Castlevania1984\\Hud.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-25T13:20:12.91Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "Animation.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Animation.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Animation.cpp",
@@ -674,11 +690,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-25T15:03:43.406Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "Animation.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Animation.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Animation.h",
@@ -687,11 +704,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T13:32:15.719Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 16,
               "Title": "Chest.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Chest.cpp",
@@ -700,24 +718,26 @@
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T13:05:43.415Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 15,
               "Title": "Chest.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Chest.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Chest.h",
               "RelativeToolTip": "Castlevania1984\\Chest.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T13:05:34.229Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 4,
               "Title": "FirePlace.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FirePlace.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\FirePlace.cpp",
@@ -726,11 +746,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T13:26:27.526Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "FirePlace.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\FirePlace.h",
               "RelativeDocumentMoniker": "Castlevania1984\\FirePlace.h",
@@ -743,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "Candle.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Candle.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Candle.cpp",
@@ -756,7 +777,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "Candle.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Candle.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Candle.h",
@@ -769,7 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 20,
               "Title": "LevelTexture.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\LevelTexture.cpp",
@@ -778,24 +799,26 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-27T11:39:33.968Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 19,
               "Title": "LevelTexture.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.h",
               "RelativeDocumentMoniker": "Castlevania1984\\LevelTexture.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\LevelTexture.h",
               "RelativeToolTip": "Castlevania1984\\LevelTexture.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-27T11:39:28.886Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 32,
               "Title": "CutsceneTrigger.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CutsceneTrigger.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\CutsceneTrigger.cpp",
@@ -808,42 +831,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "CutsceneTrigger.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CutsceneTrigger.h",
               "RelativeDocumentMoniker": "Castlevania1984\\CutsceneTrigger.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\CutsceneTrigger.h",
               "RelativeToolTip": "Castlevania1984\\CutsceneTrigger.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-26T11:14:51.819Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 28,
               "Title": "Boss.cpp",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.cpp",
               "RelativeDocumentMoniker": "Castlevania1984\\Boss.cpp",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.cpp",
               "RelativeToolTip": "Castlevania1984\\Boss.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-28T16:43:06.419Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 17,
               "Title": "Boss.h",
               "DocumentMoniker": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.h",
               "RelativeDocumentMoniker": "Castlevania1984\\Boss.h",
               "ToolTip": "C:\\Users\\horse\\Desktop\\CastleVaniaRemake\\Prog2Engine_v2.4\\Castlevania1984\\Boss.h",
               "RelativeToolTip": "Castlevania1984\\Boss.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-28T16:43:03.211Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

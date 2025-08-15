@@ -8,7 +8,7 @@
 
 class Player : public Entity {
 
-    friend class Hud;
+    friend class Hud; 
 
 public:
     Player(const Vector2f& startPos, std::vector<Projectile*>& projectiles);
@@ -29,6 +29,7 @@ public:
     void EnterStairs(Stairs* stairs);
 
     void Revive(const Vector2f& revivePos);
+    void ResetNumberOfHearts();
 
     void Teleport(const Vector2f& NewPos);
 
