@@ -124,17 +124,11 @@ Additional screenshots and demos work well in this space.
 ## Class structure 
 
 Inheritance:
-        Entity
-          | 
-    -------------------------------------------------------------------------------
-    |              |          |           |       	|           |   	  |
-   Enemy         Palyer     Block     Projectile  	Chest    LevelTexture   CutsceneTrigger
-    |  					  |		    |
-    --------------------------------	  --------------    --------
-    |     |       |         |      |	  |      |     |    |      |
-   Bat  Zombie  Fishman    Dog   Boss    Whip   Knife Axe  Candle  FirePlace
-
-
+        Entity -> Enemy,Palyer,Block,Projectile,Chest,LevelTexture,CutsceneTrigger
+     
+   Enemy -> Bat,Zombie,Fishman,Dog,Boss
+   Projectile->  	Whip,Knife Axe
+   Chest-> Candle,FirePlace
 
 ### Object composition 
 If you applied object composition (optional) explain where and how:
